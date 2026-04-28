@@ -1,0 +1,12 @@
+{
+  "users": {
+    "700634597": {
+      "balance": 170,
+      "tickets": 1
+    },
+    "demo_user": {
+      "balance": 70,
+      "tickets": 0
+    }
+  }
+}
